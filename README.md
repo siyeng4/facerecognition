@@ -1,4 +1,4 @@
-# facerecognition
+# Face Recognition
 # Introduction
 
 In the project, the goal is to utilize modeling and algorithms to identify the facial expressions of people, so as to classify and organize them. Facial expression recognition is a very important and necessary link in the development of AI. Social security systems, mobile payment facial recognition systems, car autopilot character recognition systems and robotic service systems, among many other aspects of people’s lives, will use facial expression recognition knowledge and technology. Furthermore, recognizing facial expressions requires humans to have very complex logical thinking and a certain degree of familiarity. The cost of these identifications is considerable. If AI can identify facial expressions more accurately and quickly with specific frameworks and sophisticated algorithms, then computers will be able to record, store and analyze facial images on a large scale at low cost, greatly accelerating social development.
